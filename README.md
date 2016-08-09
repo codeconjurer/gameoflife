@@ -1,16 +1,5 @@
-life
+GOL (Game of life)
 ====
-
-The definite Conway's Game of Life implementation in your browser. Features an infinite field &amp; Hashlife.
-
-All modern browsers are supported. I don't test IE, but it might work starting at version 9 or 10.
-
-The whole thing is written in Javascript, using the canvas tag.
+The universe of the Game of Life is an infinite two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, alive or dead, or "populated" or "unpopulated" (the difference may seem minor, except when viewing it as an early model of human/urban behavior simulation or how one views a blank space on a grid). Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
 
 
-Links
--
-
-- Online version: http://copy.sh/life/
-- List of examples: http://copy.sh/life/examples/
-- Source of examples (direct link): http://www.conwaylife.com/patterns/all.zip
